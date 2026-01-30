@@ -1,0 +1,14 @@
+Dataset: House Price India
+
+1. Dataset loaded successfully.
+2. Checked shape, info and descriptive statistics.
+3. Missing values analyzed.
+4. Distributions visualized using histograms and boxplots.
+5. Outliers detected using IQR method.
+6. Outlier flag column created.
+7. Outliers handled using capping.
+8. Correlation matrix generated.
+9. Cleaned dataset exported.
+
+Conclusion:
+Data is clean and suitable for further analysis or modeling.
